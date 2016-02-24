@@ -1,0 +1,6 @@
+{"keys":[
+	{"name":"master","network":"testnet","address":"mq7bmqctp66sQuoorQZ1ErDfntHv9CQBiR","WIF":"cTTxXuvG52S9k3wcjYpJDj8BUJjvkqpHVnouZaHBAMeCW9B29P8M"},
+	{"name":"second","network":"testnet","address":"mhyuNv4jVDSLyuMY3x9VYrPhjZn4Eb9T6b","WIF":"cT68awsmUriQSJts7weZZeSDqtyyJ9t7ne1JNEMQBtECZri8udmj"},
+	{"name":"third","network":"testnet","address":"mxbhz6chhT6QPakKcUqvKbqLgsUEeBahJb","WIF":"cQSZHnzywfUZe5v6xhw51vJS3b5p67RqhULLBfrHbGhd3XqL12im"}
+	]
+}
